@@ -9,7 +9,7 @@
 * Luis Jacome
 * Wendy Palomo
 * Roberth Pincha
-* Carlos Quel
+* Jose Luis Colcha
 
 ## Describcion
 
