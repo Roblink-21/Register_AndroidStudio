@@ -35,4 +35,3 @@ La aplicacion usa Realtiem Database como alojamiento y sincronizacion de los dat
 
 ![image](https://user-images.githubusercontent.com/58041699/187490269-432e4ec1-6d25-4576-9bf5-4e7a8b2a99e4.png)
 
-## Pruebas en dispositivo Samsung Galaxy J6 
